@@ -385,7 +385,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5679481522728628733, guid: 9b804680532df7f4ebc31eac58a231a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.73
+      value: 10.63
       objectReference: {fileID: 0}
     - target: {fileID: 5679481522728628733, guid: 9b804680532df7f4ebc31eac58a231a2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -419,18 +419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6590363199513244210, guid: 9b804680532df7f4ebc31eac58a231a2, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 6986981389316769762, guid: 9b804680532df7f4ebc31eac58a231a2, type: 3}
       propertyPath: m_Name
       value: Skill_2
       objectReference: {fileID: 0}
-    - target: {fileID: 7334718732339154702, guid: 9b804680532df7f4ebc31eac58a231a2, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: ea6a7624fef9f8b4fa1647049dcf1bc2, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -536,25 +528,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 172618644627853756, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 3667532574930321662, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
       propertyPath: m_Name
       value: Skill_5
       objectReference: {fileID: 0}
-    - target: {fileID: 4345378596334763262, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 62cf40fee2b4dee4a91b9b8759d0260d, type: 2}
     - target: {fileID: 6010515105116331871, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.16
       objectReference: {fileID: 0}
     - target: {fileID: 6010515105116331871, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.6799994
+      value: 7.58
       objectReference: {fileID: 0}
     - target: {fileID: 6010515105116331871, guid: 83f137c42eaed10419538cf82c7344ba, type: 3}
       propertyPath: m_LocalPosition.z
@@ -849,17 +833,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1078698861053105302, guid: 363b4f6a7b548334cbdd25af06be02fa, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 2218250662254272253, guid: 363b4f6a7b548334cbdd25af06be02fa, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.99
       objectReference: {fileID: 0}
     - target: {fileID: 2218250662254272253, guid: 363b4f6a7b548334cbdd25af06be02fa, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.73
+      value: 10.63
       objectReference: {fileID: 0}
     - target: {fileID: 2218250662254272253, guid: 363b4f6a7b548334cbdd25af06be02fa, type: 3}
       propertyPath: m_LocalPosition.z
@@ -897,10 +877,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skill_1
       objectReference: {fileID: 0}
-    - target: {fileID: 8672216263413618814, guid: 363b4f6a7b548334cbdd25af06be02fa, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 5fbfd609826921042ab77a8e02c75c20, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1173,7 +1149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1050604516779694419, guid: a7912fb9db2687141ba317876edb994b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.6799994
+      value: 7.58
       objectReference: {fileID: 0}
     - target: {fileID: 1050604516779694419, guid: a7912fb9db2687141ba317876edb994b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1211,14 +1187,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skill_4
       objectReference: {fileID: 0}
-    - target: {fileID: 6853182027756480399, guid: a7912fb9db2687141ba317876edb994b, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 002c37019f465a1488e5256985506264, type: 2}
-    - target: {fileID: 7069637841115643999, guid: a7912fb9db2687141ba317876edb994b, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2990,7 +2958,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 92712298387164968, guid: 36cdb201d9fdf5b4281cf0d32607d983, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.6799994
+      value: 7.58
       objectReference: {fileID: 0}
     - target: {fileID: 92712298387164968, guid: 36cdb201d9fdf5b4281cf0d32607d983, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3028,14 +2996,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skill_3
       objectReference: {fileID: 0}
-    - target: {fileID: 4712349366784914371, guid: 36cdb201d9fdf5b4281cf0d32607d983, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: e3dfee753785af747a8895806c83dc61, type: 2}
-    - target: {fileID: 8170610743896200012, guid: 36cdb201d9fdf5b4281cf0d32607d983, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
